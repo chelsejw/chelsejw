@@ -1,16 +1,25 @@
-### Hi there 👋
+# Hi there! 🦊
 
-<!--
-**chelsejw/chelsejw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Chelsea, a developer from Singapore with a background in television production. I write mainly in JavaScript and Python.
 
-Here are some ideas to get you started:
+In my free time, I enjoy video games, television shows and spending quality time with my two dogs.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# My Stack  🔍
+
+**Backend**: Express, Django
+
+**Frontend**: React
+
+## Currently learning... 📕
+- Docker
+- Django
+- TypeScript
+- GraphQL
+
+# Active Projects
+
+### [GA Declaration Helper](https://github.com/chelsejw/declare) 
+
+An app that automatically sends health declaration forms for GA SG students via the Google Forms API every week. 
+
+
