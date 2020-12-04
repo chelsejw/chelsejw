@@ -22,6 +22,6 @@ In my free time, I enjoy video games, television shows and spending quality time
 
 ### [GA Declaration Helper](https://github.com/chelsejw/declare) 
 
-An app that automatically sends health declaration forms for GA SG students via the Google Forms API every week. 
+An app that automatically sends health declaration forms for GA SG students via the Google Forms API every week. Using Express, React and Mongo Atlas (with Mongoose).
 
 
