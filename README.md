@@ -20,7 +20,7 @@ In my free time, I enjoy video games, television shows and spending quality time
 
 # Active Projects ⚡️
 
-### [GA Declaration Helper](/declare) 
+### [GA Declaration Helper](https://github.com/chelsejw/declare) 
 
 An app that automatically sends health declaration forms for GA SG students via the Google Forms API every week. 
 
