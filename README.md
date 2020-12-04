@@ -1,22 +1,24 @@
-# Hi there! 🦊
+# Hi there! 🦊 
 
 I'm Chelsea, a developer from Singapore with a background in television production. I write mainly in JavaScript and Python.
 
 In my free time, I enjoy video games, television shows and spending quality time with my two dogs.
 
-# My Stack  🔍
+# My Stack 👾
+
+**Languages**: JavaScript, Python
 
 **Backend**: Express, Django
 
 **Frontend**: React
 
-## Currently learning... 📕
+# Currently learning... 📕
 - Docker
 - Django
 - TypeScript
 - GraphQL
 
-# Active Projects
+# Active Projects ⚡️
 
 ### [GA Declaration Helper](https://github.com/chelsejw/declare) 
 
