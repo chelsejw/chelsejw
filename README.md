@@ -17,8 +17,7 @@ In my free time, I enjoy video games, television shows and spending quality time
 - Django
 - TypeScript
 - GraphQL
-- Microservices Architecture
-
+- Apache Kafka
 # Active Projects ⚡️
 
 ### [GA Declaration Helper](https://github.com/chelsejw/declare) 
