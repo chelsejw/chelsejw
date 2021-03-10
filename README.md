@@ -1,6 +1,6 @@
 # Hi there! 🦊 
 
-I'm Chelsea, a developer from Singapore with a background in television production. I write mainly in JavaScript, with Python coming to a close second. I now also have a keen interest in writing in Java for professional reasons. 
+I'm Chelsea, a developer from Singapore with a background in television production. I write mainly in JavaScript and Java.
 
 In my free time, I enjoy video games, reading self-help books, television shows and spending quality time with my two dogs.
 
