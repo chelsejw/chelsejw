@@ -1,4 +1,4 @@
-# Hi there! 🦊 
+# Hi there! 🦊
 
 I'm Chelsea, a developer from Singapore with a background in television production. I write mainly in JavaScript and Java.
 
@@ -12,5 +12,6 @@ In my free time, I enjoy video games, reading self-help books, television shows 
 
 **Frontend**: React
 
-# Currently learning more about 📕
+# Currently learning 📕
 - Java
+- Functional programming
